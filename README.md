@@ -1,6 +1,6 @@
 # Dashboard de E-commerce com Dash
 
-Projeto final do módulo **Python: Visualização de Dados Avançada**. A aplicação lê o arquivo `ecommerce_estatistica.csv` com Pandas e apresenta visualizações interativas com Plotly e Dash.
+Projeto final do módulo **Python: Visualização de Dados Avançada**. A aplicação lê o arquivo `ecommerce_estatistica.csv` com Pandas e apresenta visualizações interativas com Plotly e Dash. Para proteger informações inseridas por terceiros, a versão pública do CSV não contém os textos livres das colunas de avaliações; todas as variáveis necessárias à análise foram preservadas.
 
 ## Recursos do dashboard
 
